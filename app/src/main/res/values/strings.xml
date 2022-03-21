@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="c1">مشاوره تلفنی 12 دقیقه ایی</string>
+    <string name="c2">مشاوره تلفنی 14 دقیقه ایی</string>
+
+</resources>
